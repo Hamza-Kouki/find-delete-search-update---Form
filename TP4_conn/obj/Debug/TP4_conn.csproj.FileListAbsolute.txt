@@ -1,0 +1,9 @@
+D:\Desktop\CSharp\projet\TP4_conn\TP4_conn\bin\Debug\TP4_conn.exe.config
+D:\Desktop\CSharp\projet\TP4_conn\TP4_conn\bin\Debug\TP4_conn.exe
+D:\Desktop\CSharp\projet\TP4_conn\TP4_conn\bin\Debug\TP4_conn.pdb
+D:\Desktop\CSharp\projet\TP4_conn\TP4_conn\obj\Debug\TP4_conn.csprojResolveAssemblyReference.cache
+D:\Desktop\CSharp\projet\TP4_conn\TP4_conn\obj\Debug\TP4_conn.formTP4.resources
+D:\Desktop\CSharp\projet\TP4_conn\TP4_conn\obj\Debug\TP4_conn.Properties.Resources.resources
+D:\Desktop\CSharp\projet\TP4_conn\TP4_conn\obj\Debug\TP4_conn.csproj.GenerateResource.Cache
+D:\Desktop\CSharp\projet\TP4_conn\TP4_conn\obj\Debug\TP4_conn.exe
+D:\Desktop\CSharp\projet\TP4_conn\TP4_conn\obj\Debug\TP4_conn.pdb
